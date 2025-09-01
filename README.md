@@ -14,7 +14,7 @@ cd CurrencyConverter
 javac CurrencyConv.java
 
 
-Java CurrencyConv
+java CurrencyConv
 
 
 NOTE : openjdk-17 should be installed
